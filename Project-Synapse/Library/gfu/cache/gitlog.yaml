@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-08-28T17:01:13.230-07:00
+  initializedAtString: 2018-08-28T17:00:00.412-07:00
+  log:
+  - commitID: 7410cb218beb7a7b7d494b4c4c5c347911678431
+    mergeA: 
+    mergeB: 
+    authorName: Guy Wilks
+    authorEmail: guydwilks1@gmail.com
+    commitEmail: guydwilks1@gmail.com
+    commitName: Guy Wilks
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-08-28T16:51:04.000-07:00
+    commitTimeString: 2018-08-28T16:51:04.000-07:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\.gitattributes
+      projectPath: ..\.gitattributes
+      originalPath: 
+      status: 4
+      staged: 0

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6df240cf-606d-4954-910f-c40b4fb47edc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/PreFabs/Marth.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PreFabs/Marth.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/script/CharManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/script/CharManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/script/CharTmpl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/script/CharTmpl.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/script/CharacterRenderer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/script/CharacterRenderer.cs" afterDir="false" />
@@ -9,7 +10,6 @@
       <change beforePath="$PROJECT_DIR$/Assets/script/RenderScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/script/RenderScene.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/gfu/cache/branches.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Library/gfu/cache/branches.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/gfu/cache/gitlocks.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Library/gfu/cache/gitlocks.yaml" afterDir="false" />
@@ -21,6 +21,7 @@
       <change beforePath="$PROJECT_DIR$/Library/metadata/eb/eb7939287e29e404fb73649b32fa76fc" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/eb/eb7939287e29e404fb73649b32fa76fc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/f9/f91bd6beb7603b147b5a3e1fa5f20288" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f9/f91bd6beb7603b147b5a3e1fa5f20288" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +48,7 @@
     <session id="-1031010898">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="2" />
@@ -113,16 +114,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/script/CharManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
-              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+            <state relative-caret-position="761">
+              <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
               <folding>
-                <marker date="1535694188046" expanded="true" signature="6:32" ph="..." />
-                <marker date="1535694188046" expanded="true" signature="74:1429" ph="{...}" />
-                <marker date="1535694188046" expanded="true" signature="350:663" ph="{...}" />
-                <marker date="1535694188046" expanded="true" signature="729:1042" ph="{...}" />
-                <marker date="1535694188046" expanded="true" signature="831:1036" ph="{...}" />
-                <marker date="1535694188046" expanded="true" signature="1087:1427" ph="{...}" />
-                <marker date="1535694188046" expanded="true" signature="1212:1345" ph="{...}" />
+                <marker date="1535694244799" expanded="true" signature="6:32" ph="..." />
+                <marker date="1535694244799" expanded="true" signature="74:1364" ph="{...}" />
+                <marker date="1535694244799" expanded="true" signature="350:663" ph="{...}" />
+                <marker date="1535694244799" expanded="true" signature="729:1042" ph="{...}" />
+                <marker date="1535694244799" expanded="true" signature="831:1036" ph="{...}" />
+                <marker date="1535694244799" expanded="true" signature="1087:1362" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -251,7 +251,7 @@
       <option name="presentableId" value="Default" />
       <updated>1535674852505</updated>
       <workItem from="1535674854909" duration="2536000" />
-      <workItem from="1535685650067" duration="2483000" />
+      <workItem from="1535685650067" duration="2675000" />
     </task>
     <task id="LOCAL-00001" summary="taking away unused inputs">
       <created>1535675559518</created>
@@ -264,7 +264,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5019000" />
+    <option name="totallyTimeSpent" value="5211000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -276,8 +276,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10691574" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -374,16 +373,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/script/CharManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        <state relative-caret-position="761">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
           <folding>
-            <marker date="1535694188046" expanded="true" signature="6:32" ph="..." />
-            <marker date="1535694188046" expanded="true" signature="74:1429" ph="{...}" />
-            <marker date="1535694188046" expanded="true" signature="350:663" ph="{...}" />
-            <marker date="1535694188046" expanded="true" signature="729:1042" ph="{...}" />
-            <marker date="1535694188046" expanded="true" signature="831:1036" ph="{...}" />
-            <marker date="1535694188046" expanded="true" signature="1087:1427" ph="{...}" />
-            <marker date="1535694188046" expanded="true" signature="1212:1345" ph="{...}" />
+            <marker date="1535694244799" expanded="true" signature="6:32" ph="..." />
+            <marker date="1535694244799" expanded="true" signature="74:1364" ph="{...}" />
+            <marker date="1535694244799" expanded="true" signature="350:663" ph="{...}" />
+            <marker date="1535694244799" expanded="true" signature="729:1042" ph="{...}" />
+            <marker date="1535694244799" expanded="true" signature="831:1036" ph="{...}" />
+            <marker date="1535694244799" expanded="true" signature="1087:1362" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-08-30T17:22:08.797-07:00
-  initializedAtString: 2018-08-30T17:22:08.797-07:00
+  lastUpdatedAtString: 2018-09-01T20:42:06.194-07:00
+  initializedAtString: 2018-09-01T20:42:06.194-07:00
   currentGitRemote:
     name: origin
     url: https://github.com/Guy-Wilks/LuxGameDevelopment.git
@@ -34,4 +34,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://github.com/Guy-Wilks/LuxGameDevelopment.git
-  currentHead: 9ca5adc
+  currentHead: fa8ed9c

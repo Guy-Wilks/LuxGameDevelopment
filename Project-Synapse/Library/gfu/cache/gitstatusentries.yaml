@@ -12,78 +12,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-08-30T22:45:40.370-07:00
-  initializedAtString: 2018-08-30T17:22:08.874-07:00
+  lastUpdatedAtString: 2018-09-01T20:47:26.113-07:00
+  initializedAtString: 2018-09-01T20:42:06.250-07:00
   entries:
-  - path: Project-Synapse\.idea\.idea.Project-Synapse\.idea\contentModel.xml
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\.idea\.idea.Project-Synapse\.idea\contentModel.xml
-    projectPath: .idea\.idea.Project-Synapse\.idea\contentModel.xml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\.idea\.idea.Project-Synapse\.idea\indexLayout.xml
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\.idea\.idea.Project-Synapse\.idea\indexLayout.xml
-    projectPath: .idea\.idea.Project-Synapse\.idea\indexLayout.xml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\.idea\.idea.Project-Synapse\.idea\modules.xml
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\.idea\.idea.Project-Synapse\.idea\modules.xml
-    projectPath: .idea\.idea.Project-Synapse\.idea\modules.xml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\.idea\.idea.Project-Synapse\.idea\vcs.xml
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\.idea\.idea.Project-Synapse\.idea\vcs.xml
-    projectPath: .idea\.idea.Project-Synapse\.idea\vcs.xml
-    originalPath: 
-    status: 1
-    staged: 0
   - path: Project-Synapse\.idea\.idea.Project-Synapse\.idea\workspace.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\.idea\.idea.Project-Synapse\.idea\workspace.xml
     projectPath: .idea\.idea.Project-Synapse\.idea\workspace.xml
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\.idea\.idea.Project-Synapse\riderModule.iml
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\.idea\.idea.Project-Synapse\riderModule.iml
-    projectPath: .idea\.idea.Project-Synapse\riderModule.iml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\Assets\Plugins\Editor.meta
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Assets\Plugins\Editor.meta
-    projectPath: Assets\Plugins\Editor.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\Assets\Plugins\Editor\JetBrains.meta
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Assets\Plugins\Editor\JetBrains.meta
-    projectPath: Assets\Plugins\Editor\JetBrains.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\Assets\Plugins\Editor\JetBrains\JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Assets\Plugins\Editor\JetBrains\JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
-    projectPath: Assets\Plugins\Editor\JetBrains\JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\Assets\Plugins\Editor\JetBrains\JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Assets\Plugins\Editor\JetBrains\JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta
-    projectPath: Assets\Plugins\Editor\JetBrains\JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\Assets\PreFabs\Marth.prefab
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Assets\PreFabs\Marth.prefab
-    projectPath: Assets\PreFabs\Marth.prefab
-    originalPath: 
     status: 3
     staged: 0
-  - path: Project-Synapse\Assets\script\CharacterRenderer.cs
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Assets\script\CharacterRenderer.cs
-    projectPath: Assets\script\CharacterRenderer.cs
+  - path: Project-Synapse\Assets\Scenes\SampleScene.unity
+    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
     originalPath: 
     status: 3
     staged: 0
@@ -93,41 +33,23 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Project-Synapse\Assets\script\CharTmpl.cs
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Assets\script\CharTmpl.cs
-    projectPath: Assets\script\CharTmpl.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project-Synapse\Assets\script\GridRenderer.cs
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Assets\script\GridRenderer.cs
-    projectPath: Assets\script\GridRenderer.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project-Synapse\Assets\script\RenderScene.cs
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Assets\script\RenderScene.cs
-    projectPath: Assets\script\RenderScene.cs
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Project-Synapse\Library\assetDatabase3
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     status: 3
     staged: 0
+  - path: Project-Synapse\Library\CrashedAssetImports.txt
+    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    status: 1
+    staged: 0
   - path: Project-Synapse\Library\EditorInstance.json
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     status: 1
-    staged: 0
-  - path: Project-Synapse\Library\gfu\cache\branches.yaml
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 3
     staged: 0
   - path: Project-Synapse\Library\gfu\cache\gitlocks.yaml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\gfu\cache\gitlocks.yaml
@@ -147,69 +69,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Project-Synapse\Library\metadata\02\028947f2997ae9f4c85e6be81b81e2c3
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\metadata\02\028947f2997ae9f4c85e6be81b81e2c3
-    projectPath: Library\metadata\02\028947f2997ae9f4c85e6be81b81e2c3
+  - path: Project-Synapse\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\Library\metadata\02\028947f2997ae9f4c85e6be81b81e2c3.info
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\metadata\02\028947f2997ae9f4c85e6be81b81e2c3.info
-    projectPath: Library\metadata\02\028947f2997ae9f4c85e6be81b81e2c3.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\Library\metadata\1e\1ed7dd1cb18de20489e8a166a74d6276
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\metadata\1e\1ed7dd1cb18de20489e8a166a74d6276
-    projectPath: Library\metadata\1e\1ed7dd1cb18de20489e8a166a74d6276
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\Library\metadata\1e\1ed7dd1cb18de20489e8a166a74d6276.info
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\metadata\1e\1ed7dd1cb18de20489e8a166a74d6276.info
-    projectPath: Library\metadata\1e\1ed7dd1cb18de20489e8a166a74d6276.info
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Project-Synapse\Library\metadata\29\29ee8b39ac12d2f4bacc9d4704376287
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\metadata\29\29ee8b39ac12d2f4bacc9d4704376287
     projectPath: Library\metadata\29\29ee8b39ac12d2f4bacc9d4704376287
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project-Synapse\Library\metadata\30\30bc7ea1aa3e7a64fb40cbf2be8989a7
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\metadata\30\30bc7ea1aa3e7a64fb40cbf2be8989a7
-    projectPath: Library\metadata\30\30bc7ea1aa3e7a64fb40cbf2be8989a7
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project-Synapse\Library\metadata\99\99f55dfa291f0b44ab48aff235057303
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\metadata\99\99f55dfa291f0b44ab48aff235057303
-    projectPath: Library\metadata\99\99f55dfa291f0b44ab48aff235057303
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\Library\metadata\99\99f55dfa291f0b44ab48aff235057303.info
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\metadata\99\99f55dfa291f0b44ab48aff235057303.info
-    projectPath: Library\metadata\99\99f55dfa291f0b44ab48aff235057303.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\Library\metadata\ae\ae5ae0ebf20ce6b4b9b5230770a4739e
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\metadata\ae\ae5ae0ebf20ce6b4b9b5230770a4739e
-    projectPath: Library\metadata\ae\ae5ae0ebf20ce6b4b9b5230770a4739e
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project-Synapse\Library\metadata\eb\eb7939287e29e404fb73649b32fa76fc
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\metadata\eb\eb7939287e29e404fb73649b32fa76fc
-    projectPath: Library\metadata\eb\eb7939287e29e404fb73649b32fa76fc
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project-Synapse\Library\metadata\f9\f91bd6beb7603b147b5a3e1fa5f20288
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Library\metadata\f9\f91bd6beb7603b147b5a3e1fa5f20288
-    projectPath: Library\metadata\f9\f91bd6beb7603b147b5a3e1fa5f20288
     originalPath: 
     status: 3
     staged: 0
@@ -237,1083 +105,1059 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Project-Synapse\obj\Debug\Assembly-CSharp.csproj.FileListAbsolute.txt
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\obj\Debug\Assembly-CSharp.csproj.FileListAbsolute.txt
-    projectPath: obj\Debug\Assembly-CSharp.csproj.FileListAbsolute.txt
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project-Synapse\obj\Debug\Assembly-CSharp.dll
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\obj\Debug\Assembly-CSharp.dll
-    projectPath: obj\Debug\Assembly-CSharp.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\obj\Debug\Assembly-CSharp.pdb
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\obj\Debug\Assembly-CSharp.pdb
-    projectPath: obj\Debug\Assembly-CSharp.pdb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project-Synapse\ProjectSettings\EditorSettings.asset
-    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\ProjectSettings\EditorSettings.asset
-    projectPath: ProjectSettings\EditorSettings.asset
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Project-Synapse\Temp\__Backupscenes\0.backup
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Assembly-CSharp.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Assembly-CSharp.dll
     projectPath: Temp\bin\Debug\Assembly-CSharp.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Assembly-CSharp.pdb
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Assembly-CSharp.pdb
     projectPath: Temp\bin\Debug\Assembly-CSharp.pdb
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Boo.Lang.Compiler.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Boo.Lang.Compiler.dll
     projectPath: Temp\bin\Debug\Boo.Lang.Compiler.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Boo.Lang.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Boo.Lang.dll
     projectPath: Temp\bin\Debug\Boo.Lang.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Boo.Lang.Parser.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Boo.Lang.Parser.dll
     projectPath: Temp\bin\Debug\Boo.Lang.Parser.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
     projectPath: Temp\bin\Debug\Boo.Lang.PatternMatching.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Boo.Lang.Useful.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Boo.Lang.Useful.dll
     projectPath: Temp\bin\Debug\Boo.Lang.Useful.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\ExCSS.Unity.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\ExCSS.Unity.dll
     projectPath: Temp\bin\Debug\ExCSS.Unity.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\mscorlib.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\mscorlib.dll
     projectPath: Temp\bin\Debug\mscorlib.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\System.Core.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\System.Core.dll
     projectPath: Temp\bin\Debug\System.Core.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\System.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\System.dll
     projectPath: Temp\bin\Debug\System.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\System.Runtime.Serialization.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\System.Runtime.Serialization.dll
     projectPath: Temp\bin\Debug\System.Runtime.Serialization.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\System.Xml.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\System.Xml.dll
     projectPath: Temp\bin\Debug\System.Xml.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\System.Xml.Linq.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\System.Xml.Linq.dll
     projectPath: Temp\bin\Debug\System.Xml.Linq.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Unity.Cecil.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Unity.Cecil.dll
     projectPath: Temp\bin\Debug\Unity.Cecil.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Unity.CecilTools.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Unity.CecilTools.dll
     projectPath: Temp\bin\Debug\Unity.CecilTools.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Unity.DataContract.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Unity.DataContract.dll
     projectPath: Temp\bin\Debug\Unity.DataContract.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Unity.IvyParser.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Unity.IvyParser.dll
     projectPath: Temp\bin\Debug\Unity.IvyParser.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
     projectPath: Temp\bin\Debug\Unity.Legacy.NRefactory.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Unity.Locator.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Unity.Locator.dll
     projectPath: Temp\bin\Debug\Unity.Locator.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
     projectPath: Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Unity.SerializationLogic.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Unity.SerializationLogic.dll
     projectPath: Temp\bin\Debug\Unity.SerializationLogic.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Unity.TextMeshPro.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Unity.TextMeshPro.dll
     projectPath: Temp\bin\Debug\Unity.TextMeshPro.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
     projectPath: Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEditor.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEditor.dll
     projectPath: Temp\bin\Debug\UnityEditor.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEditor.StandardEvents.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEditor.StandardEvents.dll
     projectPath: Temp\bin\Debug\UnityEditor.StandardEvents.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEditor.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEditor.xml
     projectPath: Temp\bin\Debug\UnityEditor.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.AIModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.AIModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.AIModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.AIModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.AIModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.AIModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.Analytics.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.Analytics.dll
     projectPath: Temp\bin\Debug\UnityEngine.Analytics.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.AnimationModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.AnimationModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.AnimationModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.AnimationModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.AnimationModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.AnimationModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ARModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ARModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.ARModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ARModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ARModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.ARModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.AudioModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.AudioModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.AudioModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.AudioModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.AudioModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.AudioModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.BaselibModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.BaselibModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.BaselibModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.BaselibModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.BaselibModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.BaselibModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ClothModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ClothModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.ClothModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ClothModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ClothModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.ClothModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.CoreModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.CoreModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.CoreModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.CoreModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.CoreModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.CoreModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.DirectorModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.DirectorModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.DirectorModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.DirectorModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.DirectorModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.DirectorModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.dll
     projectPath: Temp\bin\Debug\UnityEngine.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.FacebookModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.FacebookModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.FacebookModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.FacebookModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.FacebookModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.FacebookModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.GameCenterModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.GameCenterModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
     projectPath: Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
     projectPath: Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.GridModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.GridModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.GridModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.GridModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.GridModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.GridModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.HoloLens.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.HoloLens.dll
     projectPath: Temp\bin\Debug\UnityEngine.HoloLens.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.HoloLens.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.HoloLens.xml
     projectPath: Temp\bin\Debug\UnityEngine.HoloLens.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.HotReloadModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.HotReloadModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.IMGUIModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.IMGUIModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.InputModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.InputModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.InputModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.InputModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.InputModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.InputModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.LocalizationModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.LocalizationModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.Networking.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.Networking.dll
     projectPath: Temp\bin\Debug\UnityEngine.Networking.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.Networking.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.Networking.xml
     projectPath: Temp\bin\Debug\UnityEngine.Networking.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.Physics2DModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.Physics2DModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.PhysicsModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.PhysicsModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.ProfilerModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.ProfilerModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
     projectPath: Temp\bin\Debug\UnityEngine.SpatialTracking.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
     projectPath: Temp\bin\Debug\UnityEngine.SpatialTracking.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.StandardEvents.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.StandardEvents.dll
     projectPath: Temp\bin\Debug\UnityEngine.StandardEvents.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.StreamingModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.StreamingModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.StreamingModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.StreamingModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.StreamingModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.StreamingModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.SubstanceModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.SubstanceModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.TerrainModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.TerrainModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.TerrainModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.TerrainModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.TerrainModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.TerrainModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.TilemapModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.TilemapModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.TilemapModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.TilemapModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.TilemapModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.TilemapModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.Timeline.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.Timeline.dll
     projectPath: Temp\bin\Debug\UnityEngine.Timeline.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.Timeline.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.Timeline.xml
     projectPath: Temp\bin\Debug\UnityEngine.Timeline.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.TimelineModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.TimelineModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.TimelineModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.TimelineModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.TimelineModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.TimelineModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.TLSModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.TLSModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.TLSModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.TLSModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.TLSModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.TLSModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UI.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UI.dll
     projectPath: Temp\bin\Debug\UnityEngine.UI.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UI.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UI.xml
     projectPath: Temp\bin\Debug\UnityEngine.UI.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.UIElementsModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.UIElementsModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UIModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UIModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.UIModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UIModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UIModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.UIModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UmbraModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UmbraModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.UmbraModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UmbraModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UmbraModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.UmbraModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UNETModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UNETModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.UNETModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UNETModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UNETModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.UNETModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.VehiclesModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.VehiclesModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.VideoModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.VideoModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.VideoModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.VideoModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.VideoModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.VideoModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.VRModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.VRModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.VRModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.VRModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.VRModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.VRModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.WindModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.WindModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.WindModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.WindModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.WindModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.WindModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.xml
     projectPath: Temp\bin\Debug\UnityEngine.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.XRModule.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.XRModule.dll
     projectPath: Temp\bin\Debug\UnityEngine.XRModule.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityEngine.XRModule.xml
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityEngine.XRModule.xml
     projectPath: Temp\bin\Debug\UnityEngine.XRModule.xml
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityScript.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityScript.dll
     projectPath: Temp\bin\Debug\UnityScript.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\bin\Debug\UnityScript.Lang.dll
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\bin\Debug\UnityScript.Lang.dll
     projectPath: Temp\bin\Debug\UnityScript.Lang.dll
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityLockfile
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-0173dff9136bc8947b8a526331a63510
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-0173dff9136bc8947b8a526331a63510
     projectPath: Temp\UnityTempFile-0173dff9136bc8947b8a526331a63510
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-0d91e9813f499c54c8ad231e1b42a921
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-0d91e9813f499c54c8ad231e1b42a921
     projectPath: Temp\UnityTempFile-0d91e9813f499c54c8ad231e1b42a921
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-20e29d081dde95741bf69179ab062c31
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-20e29d081dde95741bf69179ab062c31
     projectPath: Temp\UnityTempFile-20e29d081dde95741bf69179ab062c31
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-342b19cc292f73a4a8544ba8e92878bb
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-342b19cc292f73a4a8544ba8e92878bb
     projectPath: Temp\UnityTempFile-342b19cc292f73a4a8544ba8e92878bb
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-35ab3ebe8a8acda479dd1216ce3eb2e6
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-35ab3ebe8a8acda479dd1216ce3eb2e6
     projectPath: Temp\UnityTempFile-35ab3ebe8a8acda479dd1216ce3eb2e6
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-37125fed2a997f3468a86e1b65d86e76
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-37125fed2a997f3468a86e1b65d86e76
     projectPath: Temp\UnityTempFile-37125fed2a997f3468a86e1b65d86e76
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-3f19fb5d2bece094cbbd0e1017b6f7a9
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-3f19fb5d2bece094cbbd0e1017b6f7a9
     projectPath: Temp\UnityTempFile-3f19fb5d2bece094cbbd0e1017b6f7a9
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-595e81617d6f2254b9b4ea1ef21d35a0
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-595e81617d6f2254b9b4ea1ef21d35a0
     projectPath: Temp\UnityTempFile-595e81617d6f2254b9b4ea1ef21d35a0
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-66e76ee54fea0bb4c83d7b13b873945c
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-66e76ee54fea0bb4c83d7b13b873945c
     projectPath: Temp\UnityTempFile-66e76ee54fea0bb4c83d7b13b873945c
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-6ca834f8f777b5549a1ae5eb0de97dde
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-6ca834f8f777b5549a1ae5eb0de97dde
     projectPath: Temp\UnityTempFile-6ca834f8f777b5549a1ae5eb0de97dde
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Project-Synapse\Temp\UnityTempFile-71fd538a04625784e905b643ba3f27ae
+    fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-71fd538a04625784e905b643ba3f27ae
+    projectPath: Temp\UnityTempFile-71fd538a04625784e905b643ba3f27ae
     originalPath: 
     status: 1
     staged: 0
@@ -1321,77 +1165,77 @@ MonoBehaviour:
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-a8a570ce495094d4c9ee96339419259b
     projectPath: Temp\UnityTempFile-a8a570ce495094d4c9ee96339419259b
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-ab5815da17cad904580d1e9b83e304bf
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-ab5815da17cad904580d1e9b83e304bf
     projectPath: Temp\UnityTempFile-ab5815da17cad904580d1e9b83e304bf
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-ae425af4f133cbb40b7a1d1e8d1f1353
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-ae425af4f133cbb40b7a1d1e8d1f1353
     projectPath: Temp\UnityTempFile-ae425af4f133cbb40b7a1d1e8d1f1353
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-b237ae498221f2e44a77ff88c47c988e
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-b237ae498221f2e44a77ff88c47c988e
     projectPath: Temp\UnityTempFile-b237ae498221f2e44a77ff88c47c988e
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-c02b771ff2677784fb3cd46ba3184d37
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-c02b771ff2677784fb3cd46ba3184d37
     projectPath: Temp\UnityTempFile-c02b771ff2677784fb3cd46ba3184d37
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-ce7ed276f8111744dae7a4c52aab6ffa
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-ce7ed276f8111744dae7a4c52aab6ffa
     projectPath: Temp\UnityTempFile-ce7ed276f8111744dae7a4c52aab6ffa
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-dc55b102d836eaf468d276221af80527
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-dc55b102d836eaf468d276221af80527
     projectPath: Temp\UnityTempFile-dc55b102d836eaf468d276221af80527
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-dd06e169cd408774eaa4c830437ffcfa
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-dd06e169cd408774eaa4c830437ffcfa
     projectPath: Temp\UnityTempFile-dd06e169cd408774eaa4c830437ffcfa
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-efc2771e44bf456469d7b887a96cc78f
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-efc2771e44bf456469d7b887a96cc78f
     projectPath: Temp\UnityTempFile-efc2771e44bf456469d7b887a96cc78f
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-f24110a8df784be458758f800103915b
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-f24110a8df784be458758f800103915b
     projectPath: Temp\UnityTempFile-f24110a8df784be458758f800103915b
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-f70409c5798199b47a889df2cc649354
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-f70409c5798199b47a889df2cc649354
     projectPath: Temp\UnityTempFile-f70409c5798199b47a889df2cc649354
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-fd1d22e73799b71438d797f2a9445c8e
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-fd1d22e73799b71438d797f2a9445c8e
     projectPath: Temp\UnityTempFile-fd1d22e73799b71438d797f2a9445c8e
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Project-Synapse\Temp\UnityTempFile-fd838af80916f1943926b208e6eea3c3
     fullPath: D:\LuxGameDevelopment\LuxGameDevelopment\Project-Synapse\Temp\UnityTempFile-fd838af80916f1943926b208e6eea3c3
     projectPath: Temp\UnityTempFile-fd838af80916f1943926b208e6eea3c3
     originalPath: 
-    status: 1
+    status: 5
     staged: 0

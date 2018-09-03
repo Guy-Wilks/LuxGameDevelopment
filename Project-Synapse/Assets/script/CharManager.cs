@@ -43,9 +43,14 @@ public class CharManager : MonoBehaviour
         double newPosY = 0;
         
             newPosX = Math.Floor(trans.position.x) +0.5;
-            newPosY = Math.Floor(trans.position.y)+0.5;
+            newPosY = Math.Floor(trans.position.y)+0.9;
         
 
-        trans.position = (new Vector3((float)newPosX, (float)newPosY, 0));
+        trans.position = new Vector3((float)newPosX, (float)newPosY, 0);
+    }
+
+    public void canMoveForward(Transform transform)
+    {                            
+        
     }
 }
